@@ -60,7 +60,7 @@ a{color: #C6A664}
   display:flex; flex-direction:column; justify-content:center; 
   background-position: center center; background-size:cover;
 }
-.cover * {color:#212529}
+.cover * {color:#fff}
 
 
 
